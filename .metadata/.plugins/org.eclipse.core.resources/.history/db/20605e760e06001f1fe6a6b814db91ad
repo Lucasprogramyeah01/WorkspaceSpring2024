@@ -1,0 +1,5 @@
+package com.salesianostriana.dam.bd_ejemplojpa.modelo;
+
+public class Alumno {
+
+}

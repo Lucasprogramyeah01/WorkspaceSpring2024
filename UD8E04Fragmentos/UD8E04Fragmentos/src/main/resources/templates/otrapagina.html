@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<!-- De nuevo incluimos el fragmento head, pie y javascript -->
+
+<head th:replace="~{fragmentos/head::head}">
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+</head>
+
+<body>
+	<nav th:replace="~{fragmentos/encabezado2::encabezado2}"></nav>
+
+	<!-- Begin page content -->
+	<div class="container">
+		<div class="jumbotron">
+			<h1 th:text="${mensaje}">Mensaje</h1>
+		</div>
+	</div>
+
+	<footer th:replace="~{fragmentos/pie::pie}"></footer>
+
+	<!--
+		th:block (no es un atributo) es un contenedor de atributos de Thyemelaf, es decir, 
+		evita algunas etiquetas vacías, por ejemplo, un div dentro de una table
+		(ver apartado 11.4 del tutorial using thymeleaf)
+		
+	-->
+	<th:block th:replace=~{fragmentos/jsfinal::javascriptfinal}></th:block>
+	
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+</head>
+
+<body>
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) 
+	
+	Definimos el fragmento solo con los script javascript final por seguir con el ejemplo
+	th:block (no es un atributo) es un contenedor de atributos de Thyemelaf, es decir, 
+	evita algunas etiquetas vacías, por ejemplo, un div dentro de una table
+	(ver apartado 11.4 del tutorial using thymeleaf)
+		
+	-->
+	<th:block th:fragment="javascriptfinal">
+
+		<script src="https://code.jquery.com/jquery-3.7.1.min.js"
+			integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+			crossorigin="anonymous"></script>
+	</th:block>
+</body>
+
+</html>

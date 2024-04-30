@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+</head>
+
+
+<body>
+
+	<!-- 
+		Definimos que este encabezado es un fragmento que podremos usar en otras plantillas html
+		cuando usemos el nombre de "encabezado", el usado en th:fragment="encabezado" 
+		de la siguiente línea, el resto es html normal, sin th 
+	-->
+
+	<nav class="navbar navbar-expand-lg navbar-light bg-light" 	th:fragment="encabezado2">
+	  <div class="container-fluid">
+	    <a class="navbar-brand" href="#">Thymeleaf</a>
+	    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+	      <span class="navbar-toggler-icon"></span>
+	    </button>
+	    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+	      <div class="navbar-nav">
+	        <a class="nav-link active" aria-current="page" href="/">Inicio</a>
+	        <a class="nav-link" href="/otra">Otra página</a>
+	        <a class="nav-link" href="#">Contacto</a>
+	      </div>
+	    </div>
+	  </div>
+	</nav>
+
+</body>
