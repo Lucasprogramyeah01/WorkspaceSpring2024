@@ -140,3 +140,49 @@
 2024-04-30 13:25:34,555 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-04-30 13:25:34,556 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2024-04-30 13:25:34,564 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\UD8E06Formularios2\UD8E06Formularios2\src\test\resources
+2024-04-30 13:37:40,696 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-30 13:50:04,605 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:bd_manytomany:0.0.1-SNAPSHOT @ C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\pom.xml.
+2024-04-30 13:50:06,171 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BD_ManyToMany/src/main/java
+2024-04-30 13:50:06,172 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BD_ManyToMany/src/main/resources
+2024-04-30 13:50:06,182 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BD_ManyToMany/src/main/resources
+2024-04-30 13:50:06,191 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BD_ManyToMany/src/test/java
+2024-04-30 13:50:06,192 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BD_ManyToMany/src/test/resources
+2024-04-30 13:50:07,008 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-04-30 13:50:07,012 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-30 13:50:07,336 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:bd_manytomany:0.0.1-SNAPSHOT @ C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\pom.xml.
+2024-04-30 13:50:08,054 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BD_ManyToMany/src/main/java
+2024-04-30 13:50:08,055 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BD_ManyToMany/src/main/resources
+2024-04-30 13:50:08,056 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BD_ManyToMany/src/main/resources
+2024-04-30 13:50:08,056 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BD_ManyToMany/src/test/java
+2024-04-30 13:50:08,057 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BD_ManyToMany/src/test/resources
+2024-04-30 13:50:08,696 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2024-04-30 13:50:09,922 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 13:50:09,936 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 13:50:09,940 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
+2024-04-30 13:50:40,012 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 13:50:40,036 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 13:50:40,040 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
+2024-04-30 13:52:12,443 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 13:52:12,447 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 13:52:12,450 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
+2024-04-30 13:53:25,551 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 13:53:25,556 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 13:53:25,560 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
+2024-04-30 13:56:08,942 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 13:56:08,947 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 13:56:08,950 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
+2024-04-30 13:58:09,254 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 13:58:09,287 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 13:58:09,291 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
+2024-04-30 14:00:31,561 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 14:00:31,566 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 14:00:31,569 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
+2024-04-30 14:00:39,825 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 14:00:39,861 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 14:00:39,866 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
+2024-04-30 14:04:12,413 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 14:04:12,417 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 14:04:12,421 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
+2024-04-30 14:05:43,314 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-30 14:05:43,318 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-30 14:05:43,321 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\BD_ManyToMany\src\test\resources
