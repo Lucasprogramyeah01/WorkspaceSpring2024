@@ -12,9 +12,11 @@ INDEX VERSION 1.134+C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\.m
 191991626.index
 3452794969.index
 3762822290.index
+3600929713.index
 800240190.index
 750692273.index
 161588664.index
+1695584176.index
 3550871677.index
 1491702978.index
 1783208403.index
@@ -43,6 +45,7 @@ INDEX VERSION 1.134+C:\Users\falla.urluc24_triana\Desktop\WorkspaceSpring2024\.m
 3930789165.index
 2098987069.index
 868008009.index
+1811306548.index
 1268998960.index
 9331790.index
 4275704484.index
