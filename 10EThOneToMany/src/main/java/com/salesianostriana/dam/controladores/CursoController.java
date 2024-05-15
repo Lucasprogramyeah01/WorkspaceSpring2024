@@ -106,7 +106,7 @@ public class CursoController {
 		Curso cConfigurar = cursoServicio.findById(id);
 		
 		//Añadimos al modelo la lista de alumnos que debemos pintar para poder
-		//asignar estos en el curso que estamos onfigurando
+		//asignar estos en el curso que estamos configurando
 		if (cConfigurar!=null) {
 			model.addAttribute("lista", alumnoServicio.findAll());
 			model.addAttribute("curso", cConfigurar);
